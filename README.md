@@ -35,7 +35,9 @@ I build responsive websites, protect digital assets, and help others understand 
 ### 🚀 Featured Projects  
 
 🔹 **[🌐 Portfolio Website](https://c1401390.github.io/sigqibo-zweni/)**  
-Showcasing my front-end work, certifications, and digital marketing skills  
+Showcasing my front-end work, certifications, and digital marketing skills 
+
+🔹 **[🌐 Business Website] (https://c1401390.github.io/vergus-nerve/)**
 
 🔹 **🔧 CiLocks Toolkit (In Progress)**  
 Terminal-based Android servicing toolkit for FRP, flashing, and ADB/Fastboot operations  
@@ -56,6 +58,7 @@ IT & Cybersecurity educational platform aimed at skill development and empowerme
 ### 📫 Connect with Me  
 📍 **Location:** South Africa  
 🔗 **Portfolio:** [sigqibo-zweni](https://c1401390.github.io/sigqibo-zweni/)  
+🔗 **[🌐 Business Website] (https://c1401390.github.io/vergus-nerve/)**
 💼 **GitHub:** [C1401390](https://github.com/C1401390)
 
 ---

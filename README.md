@@ -1,69 +1,104 @@
-# 👋 Hi, I'm Sigqibo Zweni  
+```md
+# 👋 Hi, I'm **Sigqibo Zweni**
 
-### 🌍 Front-End Developer | 💻 IT Technician | 🔒 Cybersecurity Enthusiast  
+### 🔒 Cybersecurity | 💻 IT Support | 🌐 Front-End Development  
 
-I'm passionate about technology, security, and design.  
-I build responsive websites, protect digital assets, and help others understand tech better.  
+I help individuals and businesses stay safe online, keep their devices running smoothly, and build professional web solutions.  
+My focus is on **digital protection, device security, account recovery, and modern web development.**
 
----
-
-### 🧑‍💻 About Me  
-🎓 Certified in **CompTIA A+**, **Network+**, and **Server Infrastructure**  
-🧩 Skilled in **Front-End Web Development**, **Device Repair**, and **Cybersecurity Awareness**  
-🚀 Founder of **Alpha State Academy**, empowering learners in IT and cybersecurity  
-🌱 Currently learning **Advanced CSS Frameworks**, **JavaScript**, and **Web Application Security**
+I provide both **remote and on-site technical support** in South Africa through my business: **Alpha State Cyber Security.**
 
 ---
 
-### 🛠️ Tech Stack  
+## 🧑‍💻 About Me  
 
-#### 💻 **Languages & Frameworks**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+🎓 **Certified:** CompTIA A+, Network+, Server Infrastructure  
+🔐 **Specialties:**  
+- Social media security & hacked account recovery  
+- Laptop, PC, and Android troubleshooting  
+- Malware/spyware detection and removal  
+- Forgotten password recovery & secure resets  
+- Device hardening and digital safety  
+- CMS website maintenance and support
+- Web development  
 
-
-#### 🧰 **Tools & Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-### 🚀 Featured Projects  
-
-🔹 **[🌐 Portfolio Website](https://c1401390.github.io/sigqibo-zweni/)**  
-Showcasing my front-end work, certifications, and digital marketing skills 
-
-🔹 **[🌐 Business Website] (https://c1401390.github.io/vergus-nerve/)**
-
-🔹 **🔧 CiLocks Toolkit (In Progress)**  
-Terminal-based Android servicing toolkit for FRP, flashing, and ADB/Fastboot operations  
-
-🔹 **💡 Alpha State Academy (Upcoming)**  
-IT & Cybersecurity educational platform aimed at skill development and empowerment  
+🚀 **Founder:** Alpha State Cyber Security  
+🌱 **Currently Learning:**  
+- Advanced JavaScript  
+- Web Application Security  
+- Ethical cybersecurity practices
+- Computer Sciences  
 
 ---
 
-### 📊 GitHub Stats  
+## 🛠️ Tech Stack  
 
-![Sigqibo's GitHub stats](https://github-readme-stats.vercel.app/api?username=C1401390&show_icons=true&theme=radical)
+### 💻 Languages & Frameworks  
+- HTML5  
+- CSS3  
+- Bootstrap  
+- Python (learning)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C1401390&layout=compact&theme=radical)
+### 🧰 Tools & Systems  
+- Linux (Kali, Ubuntu)  
+- Git & GitHub  
+- VS Code  
+- ADB & Fastboot tools  
+- Basic penetration testing labs  
 
 ---
 
-### 📫 Connect with Me  
-📍 **Location:** South Africa  
-🔗 **Portfolio:** [sigqibo-zweni](https://c1401390.github.io/sigqibo-zweni/)  
-🔗 **[🌐 Business Website] (https://c1401390.github.io/vergus-nerve/)**
-💼 **GitHub:** [C1401390](https://github.com/C1401390)
+## 🚀 Featured Projects  
 
+### 🌐 **Personal Portfolio**  
+🔗 https://c1401390.github.io/sigqibo-zweni/  
+A professional front-end portfolio showcasing my skills, certifications, and projects.
+
+### 🌐 **Alpha State Business Site (Demo)**  
+🔗 https://c1401390.github.io/vergus-nerve/  
+A concept business website demonstrating cybersecurity branding and services.
+
+### 🔧 **CiLocks Toolkit (Work in Progress)**  
+A terminal-based Android toolkit for:  
+- FRP bypass (lab use)  
+- ADB/Fastboot operations  
+- Device servicing workflows  
+
+### 🎓 **Alpha State Academy (Upcoming)**  
+An education platform teaching IT and cybersecurity fundamentals.
 
 ---
 
-> “Keep learning, keep building, keep securing the digital world.”  
-> — *Sigqibo Zweni*
+## 💼 What I Can Help With  
+
+I assist with:  
+
+- Securing social media accounts  
+- Recovering hacked or locked accounts  
+- Cleaning infected laptops  
+- Speeding up slow computers  
+- Removing spyware/adware  
+- Resetting forgotten passwords  
+- Installing and fixing Windows/Linux  
+- Maintaining CMS websites
+- Developing websites and we applications
+- On-site penetration testing and remote
+- Web app penetration testing  
+
+Available for **remote help or on-site visits**.
+
+---
+
+## 📫 Connect with Me  
+
+📍 **Location:** Cape Town, South Africa  
+🔗 **Portfolio:** https://c1401390.github.io/sigqibo-zweni/  
+🔗 **Business Site:** https://c1401390.github.io/vergus-nerve/
+🔗 **Email:** sigqibogeorge@gmail.com   
+💼 **LinkedIn:** https://za.linkedin.com/in/sigqibo-zweni-828421158  
+
+---
+
+> *“Build, secure, and serve with integrity.”*  
+— **Sigqibo Zweni
+```
